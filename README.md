@@ -1,3 +1,6 @@
+# Fatima Karimi
+# 22238021
+
 # NotebookLM Evaluation – BUS5001 Cloud Platforms and Analytics
 
 This repository contains evidence from the evaluation of Google’s **NotebookLM** as part of Assignment 3, Question 4.  
